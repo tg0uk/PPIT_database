@@ -17,12 +17,17 @@ The folder name is the date when these data were collected.
 \\
 The pressure sensor data and location senesor data are raw sensor value from the smart mat hardware. 
 The pressure sensor distribution looks like the figure below. Each grey pad is the sensor coverage area.\\
+
 <img width="600" alt="image" src="https://github.com/tg0uk/PPIT_database/assets/153914917/5a94fb4c-e31b-4d3c-a8a5-a969b629ed50">\\
+
 The location sensor distribution looks like the figure below. Each grey pad is the sensor coverage area.\\
+
 <img width="600" alt="image" src="https://github.com/tg0uk/PPIT_database/assets/153914917/cef99a7b-0e45-41d8-9719-64d7d7233cc5">\\
+
 The location sensor and pressure sensor area are the same with location sensor overlapping on top of the pressure sensors.\\
 
 The pressure map data are calculated from pressure sensor data and location sensor data. It has the same coverage as pressure sensor and location sensor. The only difference is the pressure grid resolution which is 13 rows by 36 columns. \\
+
 <img width="600" alt="image" src="https://github.com/tg0uk/PPIT_database/assets/153914917/fbb006da-79f5-4578-ab15-17844eae9c5b">\\
 \\
 
