@@ -4,7 +4,7 @@
 The folder name is the date when these data were collected. 
 
 ### Data file (Pickle)
-\\
+
   Each folder has a number of pickle files in it. 
   Each pickle file are named in the following order: Date_IndividualID_set_SetNumber_Repetition.p.
   In each pickle file, it contains a dictionary as follows
