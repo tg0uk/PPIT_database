@@ -39,7 +39,7 @@ The pressure map data are calculated from pressure sensor data and location sens
   ```
 - joints: The position of data for each joint. For example, "Left ankel" has position of 12. The corresponding coordinates data in the pickle file should be **keypoint[:,11,:]**. It returns a 2D matrix of row as frames and col as the xyz coordinates
 - frequency: The frequency of data frame in Hz. For example, the frequency of 10 means the time gap between each time frame is 100 millisecond.
-- axis_range: The value of coordinate ranges from -32767 to 32767
+- axis_range: The value of keyboard coordinate ranges from -32767 to 32767
 - data_folder_list: The log describe these data folder
 ```
 
